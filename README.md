@@ -2,5 +2,6 @@
 
 Research Assistant Application
 
-[2A SOLUTION]()
-[2B SOLUTION]()
+[Solution to Q2A]()
+
+[Solution to Q2B]()
