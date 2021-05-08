@@ -4,6 +4,6 @@
 
 Solution to Questions for a Research Assistant Application
 
-[Solution to Q2A]()
+* [Solution to Q2A]()
 
-[Solution to Q2B]()
+* [Solution to Q2B]()
