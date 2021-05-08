@@ -2,7 +2,7 @@
 
 # RA
 
-Solution to Questions for a Research Assistant Application
+Solution to Computer Science Questions for a Research Assistant Application
 
 * [Solution to Q2A]()
 
