@@ -1,9 +1,7 @@
-<img src = "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"  width="100" height="100" style="float:left"/>
-
-# RA
+# Question 2B
 
 Solution to Questions for a Research Assistant Application
 
-* [Solution to Q2A]()
+* Modular multiplicative inverse is an important part of any cryptographic implementation. Write a code that calculates the Modular multiplicative inverse of a number using the Euclidean Algorithm?
 
-* [Solution to Q2B]()
+* [Solution to Question]()
