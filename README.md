@@ -4,6 +4,6 @@
 
 Solution to Computer Science Questions for a Research Assistant Application
 
-* [Solution to Q2A]()
+* [Solution to Q2A](https://github.com/doyinsolamiolaoye/ra/tree/main/2A)
 
-* [Solution to Q2B]()
+* [Solution to Q2B](https://github.com/doyinsolamiolaoye/ra/tree/main/2B)
