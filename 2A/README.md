@@ -4,4 +4,4 @@ The **Merkle Tree** is a central data structure to most cryptocurrency implement
 
 * A Merkle tree is a data structure that is used in computer science applications. In bitcoin and other cryptocurrencies, Merkle trees serve to encode blockchain data more efficiently and securely. They are also referred to as "binary hash trees".
 
-
+The Merkle tree is useful because it allows users to verify a specific transaction without downloading the whole blockchain.
